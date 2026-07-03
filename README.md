@@ -44,7 +44,7 @@ Search terms this profile is relevant to: *Full Stack Developer Madurai*, *React
 - 📍 **Location:** Madurai, Tamil Nadu, India
 - 💼 **Availability:** Open to Full Stack Developer / React Developer opportunities
 - ⭐ **GitHub Pro** member with 25+ public repositories
-- 🔗 **Portfolio:** [Ruban Raj S – Developer Portfolio](https://github.com/RUBANRAJS-hub/Ruban-Raj.S-portfolio)
+- 🔗 **Portfolio:** [Ruban Raj S – Developer Portfolio](https://rubanraj.netlify.app/)
 
 <br clear="right"/>
 
